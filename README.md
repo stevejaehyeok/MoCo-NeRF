@@ -15,7 +15,7 @@
   </p>
 
   <div align="center">
-    <a href=https://arxiv.org/abs/2404.13679><img src='https://img.shields.io/badge/arXiv-2404.13679-b31b1b.svg'></a>  
+    <a href=https://arxiv.org/abs/2407.11962><img src='https://img.shields.io/badge/arXiv-2407.11962-b31b1b.svg'></a>  
     <a href='https://stevejaehyeok.github.io/publications/moco-nerf/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>  
   </div>
   
